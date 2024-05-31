@@ -41,4 +41,4 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
-git+https://github.com/5hojib/pyrogram.git@dev
+https://github.com/KurimuzonAkuma/pyrogram/archive/refs/tags/v2.1.19.zip
